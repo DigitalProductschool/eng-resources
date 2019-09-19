@@ -8,7 +8,7 @@ An extensive list of all tech related resources curated by the batchlings.
 
 - [Google Cloud](#googlecloud)
 
-## <a name="devops"></a>DevOps
+## <a name="devops">DevOps</a>
 
 - <a name="devops-googlecloud"></a>Google Cloud
   - [Host a website on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
