@@ -4,7 +4,7 @@ An extensive list of all tech related resources curated by the batchlings.
 
 ## Contents
 
-### <a name="languages-category"></a>[Languages](#languages)
+### <a name="languages-category"></a>[Languages](#programming-languages)
 
 * [Python](#languages-python)
 * [Javascript](#languages-javascript)
@@ -23,21 +23,21 @@ An extensive list of all tech related resources curated by the batchlings.
   - [Node.js](#backend-frameworks-nodejs)
   - [Express](#backend-frameworks-express)
 
-### <a name="devops-category"></a>[DevOps](#devops)
+### <a name="devops-category"></a>[DevOps](#dev-ops)
 
 * [Google Cloud](#googlecloud)
 
-### <a name="devenv-category"></a>[Development Environment](#devenv)
+### <a name="devenv-category"></a>[Development Environment](#dev-envs)
 
 * [Git](#devenv-git)
 * [GitHub](#devenv-github)
 
-### <a name="concepts-category"></a>[Concepts](#concepts)
+### <a name="concepts-category"></a>[Concepts](#dev-concepts)
 
 * [REST](#concepts-rest)
 * [Databases](#concepts-databases)
 
-## <a name="languages"></a>Languages <sup>[Back ⇈](#languages-category)</sup>
+## <a name="programming-languages"></a>Languages <sup>[Back ⇈](#languages-category)</sup>
 
 * <a name="languages-python"></a> Python
   - [Google's Python Class](https://developers.google.com/edu/python/)
@@ -67,14 +67,14 @@ An extensive list of all tech related resources curated by the batchlings.
 * <a name="backend-frameworks-nodejs"></a>Node.js
 * <a name="backend-frameworks-express"></a>Express
 
-## <a name="devops"></a>DevOps <sup>[Back ⇈](#devops-category)</sup>
+## <a name="dev-ops"></a>DevOps <sup>[Back ⇈](#devops-category)</sup>
 
 * <a name="devops-googlecloud"></a>Google Cloud
   - [Host a website on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
   - [Continuous Development](https://deploybot.com/blog/continuous-development)
   - [Continuous Delivery on Google Cloud Platform](https://cloud.google.com/solutions/continuous-delivery/)
 
-## <a name="devenv"></a>Development Environments <sup>[Back ⇈](#devenv-category)</sup>
+## <a name="dev-envs"></a>Development Environments <sup>[Back ⇈](#devenv-category)</sup>
 
 * <a name="devenv-git"></a>Git
   - https://learngitbranching.js.org/
@@ -88,7 +88,7 @@ An extensive list of all tech related resources curated by the batchlings.
   - How to make a Pull Request to someone else's repository
   - How to create GitHub issue?
   
-## <a name="concepts"></a>Concepts <sup>[Back ⇈](#concepts-category)</sup>
+## <a name="dev-concepts">Concepts <sup>[Back ⇈](#concepts-category)</sup>
 
 * <a name="concepts-rest">REST</a>
   - [What is REST](https://www.codecademy.com/articles/what-is-rest)
