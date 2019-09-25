@@ -88,7 +88,7 @@ An extensive list of all tech related resources curated by the batchlings.
   - How to make a Pull Request to someone else's repository
   - How to create GitHub issue?
   
-## <a name="dev-concepts">Concepts <sup>[Back ⇈](#concepts-category)</sup>
+## <a name="dev-concepts"></a>Concepts <sup>[Back ⇈](#concepts-category)</sup>
 
 * <a name="concepts-rest">REST</a>
   - [What is REST](https://www.codecademy.com/articles/what-is-rest)
