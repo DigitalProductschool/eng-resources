@@ -15,7 +15,7 @@ An extensive list of all tech related resources curated by the batchlings.
 * [CSS](#frontend-css)
 
 * [Frameworks](#frontend-frameworks)
-    - [React](#frontend-frameworks-react)
+  - [React](#frontend-frameworks-react)
 
 ### <a name="backend-category"></a>[Back-End Development](#backend-development)
 
@@ -35,6 +35,7 @@ An extensive list of all tech related resources curated by the batchlings.
 ### <a name="concepts-category"></a>[Concepts](#dev-concepts)
 
 * [REST](#concepts-rest)
+* [Semantic Versioning](#concepts-semver)
 * [Databases](#concepts-databases)
 
 ## <a name="programming-languages"></a>Languages <sup>[Back ⇈](#languages-category)</sup>
@@ -42,7 +43,9 @@ An extensive list of all tech related resources curated by the batchlings.
 * <a name="languages-python"></a> Python
   - [Google's Python Class](https://developers.google.com/edu/python/)
 * <a name="languages-javascript"></a> JavaScript
+  - [ES6 / ES2015](https://github.com/lukehoban/es6features)
   - [Mozilla's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+  - [10 Days of JavaScript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ## <a name="frontend-development"></a>Front-End Development <sup>[Back ⇈](#frontend-category)</sup>
 
@@ -55,8 +58,10 @@ An extensive list of all tech related resources curated by the batchlings.
  
 ### <a name="frontend-frameworks"></a>Frameworks
 
+* [What To Learn Before A JavaScript Framework](https://www.youtube.com/watch?v=qi9VQqYcXqY)
 * <a name="frontend-frameworks-react"></a> React
   - [Understand React's main concepts](https://reactjs.org/docs/hello-world.html)
+  - [React Tutorial](https://reactjs.org/tutorial/tutorial.html)
   - What's create-react-app?
   - Understand how to use react-router
   - Why is server-side rendering important?
@@ -70,13 +75,17 @@ An extensive list of all tech related resources curated by the batchlings.
 ## <a name="dev-ops"></a>DevOps <sup>[Back ⇈](#devops-category)</sup>
 
 * <a name="devops-googlecloud"></a>Google Cloud
+  - [Google App Engine](https://cloud.google.com/appengine/)
   - [Host a website on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
   - [Continuous Development](https://deploybot.com/blog/continuous-development)
   - [Continuous Delivery on Google Cloud Platform](https://cloud.google.com/solutions/continuous-delivery/)
 
 ## <a name="dev-envs"></a>Development Environments <sup>[Back ⇈](#devenv-category)</sup>
 
+* [macOS Setup Guide](https://sourabhbajaj.com/mac-setup/)
+
 * <a name="devenv-git"></a>Git
+  - [Atlassian's Become a Git Guru](https://www.atlassian.com/git/tutorials)
   - https://learngitbranching.js.org/
   - What's `git branch`? How to create one?
   - How to merge branches? What's `git rebase`?
@@ -84,13 +93,17 @@ An extensive list of all tech related resources curated by the batchlings.
   - What's `squash`, `fixup` & `drop` in the context of commits?
 
 * <a name="devenv-github"></a>GitHub
+  - [GitHub Guides](https://guides.github.com/)
   - What's GitHub fork?
   - How to make a Pull Request to someone else's repository
   - How to create GitHub issue?
-  
+
 ## <a name="dev-concepts"></a>Concepts <sup>[Back ⇈](#concepts-category)</sup>
 
 * <a name="concepts-rest">REST</a>
   - [What is REST](https://www.codecademy.com/articles/what-is-rest)
+* <a name="concepts-semver">Semantic Versioning</a>
+  - [Semantic Versioning](https://semver.org/)
+  - [NPM's About Semantic Versioning](https://docs.npmjs.com/about-semantic-versioning)
 * <a name="concepts-databases">Databases</a>
     * [Cloud Firestore](https://firebase.google.com/docs/firestore)
