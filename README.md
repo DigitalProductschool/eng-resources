@@ -26,6 +26,9 @@ An extensive list of all tech related resources curated by the batchlings.
 ### <a name="devops-category"></a>[DevOps](#dev-ops)
 
 * [Google Cloud](#googlecloud)
+* [AWS lambda](#aws-lambda)
+* [AWS Elastic Beanstalk](#aws-elastic-beanstalk)
+* [Microsoft Azure Functions](#ms-azure-fn)
 
 ### <a name="devenv-category"></a>[Development Environment](#dev-envs)
 
@@ -73,6 +76,9 @@ An extensive list of all tech related resources curated by the batchlings.
   - [Host a website on Google App Engine](https://cloud.google.com/appengine/docs/standard/python/getting-started/hosting-a-static-website)
   - [Continuous Development](https://deploybot.com/blog/continuous-development)
   - [Continuous Delivery on Google Cloud Platform](https://cloud.google.com/solutions/continuous-delivery/)
+* <a name="aws-lambda"></a>AWS Lambda
+* <a name="aws-elastic-beanstalk"></a>AWS Elastic Beanstalk
+* <a name="ms-azure-fn"></a>Microsoft Azure Functions
 
 ## <a name="dev-envs"></a>Development Environments <sup>[Back ⇈](#devenv-category)</sup>
 
