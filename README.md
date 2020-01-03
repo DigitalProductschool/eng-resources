@@ -24,7 +24,7 @@ An extensive list of all tech related resources curated by the batchlings.
   - [Express](#backend-frameworks-express)
 
 
-### <a name="ai-ml-category"></a>[AI/ML resources](#ai/ml-resources)
+### <a name="ai-ml-category"></a>[AI/ML resources](#ai-ml-resources)
 
 * [Framework/Library](#framework-library)
   - [Tensorflow](#tensorflow)
@@ -79,9 +79,9 @@ An extensive list of all tech related resources curated by the batchlings.
 * <a name="backend-frameworks-nodejs"></a>Node.js
 * <a name="backend-frameworks-express"></a>Express
 
-## <a name="AI/ML Resources"></a><sup>[Back ⇈](#ai-ml-category)</sup>
+## <a name="ai-ml-resources"></a>AI/ML Resources<sup>[Back ⇈](#ai-ml-category)</sup>
 
-### <a name="framework/library"></a>Framework/Library
+### <a name="framework-library"></a>Framework/Library
 
 [Comparison of two popular framework](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 
@@ -94,24 +94,23 @@ An extensive list of all tech related resources curated by the batchlings.
     * [What Are Symbolic and Imperative APIs](https://blog.tensorflow.org/2019/01/what-are-symbolic-and-imperative-apis.html)
     * [Tensorflow 2.0 — Create and Train a Vanilla CNN on Google Colab](https://colab.research.google.com/github/grohith327/traffic_sign_detection/blob/master/traffic_sign_detection_colab.ipynb)
 
-- Keras sits atop of Tensorflow(and others like Theano and Deeplearning4j)
-* <a name="keras"></a>Keras
+##### <a name="keras"></a>Keras
+  - Keras sits atop of Tensorflow(and others like Theano and Deeplearning4j)
   - Tensorflow 2.0 official doc has nice tutorials of Keras
     + [Basic classification: Classify images of clothing](https://www.tensorflow.org/tutorials/keras/classification)
     + [Text classification with TensorFlow Hub: Movie reviews](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
 
 #### <a name="pytorch"></a>Pytorch
 
-
 - [Awosome Pytorch list](https://github.com/bharathgs/Awesome-pytorch-list)
   + Document which have resources (1) Pytorch & related libraries (2) Tutorials & examples (3) Paper implementations (4) Talks & Conferences
 - If you are familiar with basic tensor operations, [WHAT IS TORCH.NN REALLY?](https://pytorch.org/tutorials/beginner/nn_tutorial.html)
 - [Pytorch for Numpy Users](https://github.com/wkentaro/pytorch-for-numpy-users)
 
-- FastAI was built on top of Pytorch and will have additional helper functions
-* <a name="fastai"></a>fast.ai
 
-- [forum](http://forums.fast.ai), [course](https://course.fast.ai/index.html) and official [blog](https://www.fast.ai) are only and best way to learn.
+##### <a name="fastai"></a>fast.ai
+  - FastAI was built on top of Pytorch and will have additional helper functions
+  - [forum](http://forums.fast.ai), [course](https://course.fast.ai/index.html) and official [blog](https://www.fast.ai) are only and best way to learn.
 
 
 ## <a name="dev-ops"></a>DevOps <sup>[Back ⇈](#devops-category)</sup>
